@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/user/user",
+    "pages/tops/tops",
+    "pages/main/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "black",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "槽点公社",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#11cd6e",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "images/首页.png",
+        "iconPath": "images/首页1.png",
+        "pagePath": "pages/main/main",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "images/喜爱.png",
+        "iconPath": "images/喜爱1.png",
+        "pagePath": "pages/tops/tops",
+        "text": "推荐"
+      },
+      {
+        "selectedIconPath": "images/用户.png",
+        "iconPath": "images/用户1.png",
+        "pagePath": "pages/user/user",
+        "text": "我的"
+      }
+    ]
+  }
+}

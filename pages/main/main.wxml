@@ -1,0 +1,6 @@
+<!--pages/main/main.wxml-->
+<view class="container log-list">
+ <view class="usermotto">
+    <text>主页</text>
+  </view>
+</view>

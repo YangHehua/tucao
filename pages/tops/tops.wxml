@@ -1,6 +1,0 @@
-<!--logs.wxml-->
-<view class="container log-list">
- <view class="usermotto">
-    <text>最热门的吐槽</text>
-  </view>
-</view>
